@@ -6,9 +6,11 @@ body {
 }
 
 canvas {
-    display: block;
+    display: none;
     margin: 0 auto;
     background-color: #222;
+    border: 2px solid #fff;
+    box-shadow: 0 0 20px #000;
 }
 
 #pontuacao {
